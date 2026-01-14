@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats (Working Mirrors)
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Jeet1466&show_icons=true&theme=tokyonight" />
   <br><br>
