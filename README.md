@@ -20,14 +20,14 @@
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=js" />
+   <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 #### 💻 Development & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
