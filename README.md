@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeet Patel</h1>
-<h3 align="center">🌐 MSc IT Student | Cybersecurity Enthusiast | AI & ML | Web Developer </h3>
+<h3 align="center">🌐 MSc IT Student | Cybersecurity Enthusiast | AI & ML | Web Developer</h3>
 
 ---
 
@@ -8,66 +8,69 @@
 - 💻 Exploring **Cybersecurity, AI/ML, Web Development**
 - 🧠 Currently learning: **MERN, AI & ML, Cyber Security**
 
-
 ---
 
 ### 🧠 Skills & Technologies
 
 #### 📝 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
 #### 💻 Development & Tools  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E3222E?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
 
 #### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🛠 Tools & Platforms  
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Working Mirrors)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Jeet1466&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeet1466&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌱 Current Projects
-- ⚡ **personal website** using Laravel  
-- 🔐 Cybersecurity tools 
-- 🧩 Build a Web for College Resources
+- ⚡ **Personal website** using Laravel  
+- 🔐 Cybersecurity tools  
+- 🧩 College Resource Web App  
 
 ---
 
 ### 🎯 Future Goals
 - Master **Cybersecurity + AI/ML**
-- Build open-source contributions
-- Grow a personal tech brand through GitHub & LinkedIn
+- Contribute to open-source
+- Build a strong personal brand on GitHub & LinkedIn  
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
 
 ### 🔥 Fun Fact  
-> Tech + Creativity = Magic ✨🚀  
+> Tech + Creativity = Magic ✨🚀
+ 
