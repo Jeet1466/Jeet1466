@@ -66,7 +66,7 @@
 ### 📫 Connect With Me
 <p align="left">
 <a href="https://www.instagram.com/jeet__1466" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://www.linkedin.com/jeet1466" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/jeet1466" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:pateljeet1466@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
