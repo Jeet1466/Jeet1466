@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 Pursuing **Integrated MSc IT** at **SDJ International College, Surat**
 - 💻 Exploring **Cybersecurity, AI/ML, Web Development**
-- 🧠 Currently learning: **MERN, AI & ML, Cyber Security**
+- 🧠 Currently learning: **MERN, AI & ML, Cyber Security, Android & IOS**
 
 ---
 
