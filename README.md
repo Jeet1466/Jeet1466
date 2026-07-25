@@ -17,12 +17,12 @@
 ## 💫 About Me
 
 <pre>
-<h3>- 🎓 <font color="#00F2FE"><b>Education</b></font>     : Master of Science in Information Technology (MSc IT)
-- 🧠 <font color="#4FACFE"><b>Focus Areas</b></font>   : AI Agents, Machine Learning, Cybersecurity & Full-Stack Development
-- ⚡ <font color="#00FF88"><b>Currently</b></font>     : Developing Next-Gen AI Workflows & Modern Web Platforms
-- 🎯 <font color="#FF9F43"><b>Goals</b></font>         : Engineering secure, scalable, and intelligent software
-- 💬 <font color="#A55EEA"><b>Ask Me About</b></font>  : Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel
-- 📬 <font color="#FF6B6B"><b>Availability</b></font>  : Open for exciting projects, research & tech collaborations!</h3>
+<h3>- 🎓 <b>Education</b>     : Master of Science in Information Technology (MSc IT)
+- 🧠 <b>Focus Areas</b>   : AI Agents, Machine Learning, Cybersecurity & Full-Stack Development
+- ⚡ <b>Currently</b>     : Developing Next-Gen AI Workflows & Modern Web Platforms
+- 🎯 <b>Goals</b>         : Engineering secure, scalable, and intelligent software
+- 💬 <b>Ask Me About</b>  : Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel
+- 📬 <b>Availability</b>  : Open for exciting projects, research & tech collaborations!</h3>
 </pre>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
