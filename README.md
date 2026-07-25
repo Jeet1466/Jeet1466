@@ -52,33 +52,20 @@
 <div align="center">
 
   <a href="https://github.com/Jeet1466/AI_AGENT">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=AI_AGENT&theme=cyan&hide_border=true" alt="AI Agent Repo Card" />
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=AI_AGENT&theme=cyan&hide_border=true" alt="AI Agent Repo Card" />
   </a>
   &nbsp;
   <a href="https://github.com/Jeet1466/EventSetu">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=EventSetu&theme=cyan&hide_border=true" alt="EventSetu Repo Card" />
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=EventSetu&theme=cyan&hide_border=true" alt="EventSetu Repo Card" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/Jeet1466/MSc-Resource">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=MSc-Resource&theme=cyan&hide_border=true" alt="MSc Resource Repo Card" />
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=MSc-Resource&theme=cyan&hide_border=true" alt="MSc Resource Repo Card" />
   </a>
 
 </div>
-
-<br />
-
-### 🌟 Project Highlights & Tech Stacks
-
-* 🤖 **[AI AGENT](https://github.com/Jeet1466/AI_AGENT)** — Autonomous AI agent framework designed for complex task execution & workflow automation.
-  `Python` `LLMs` `AI` `Automation`
-
-* 🎪 **[EventSetu](https://github.com/Jeet1466/EventSetu)** — Full-featured Event Management & coordination platform for organizing and attending events.
-  `PHP` `Laravel` `MySQL` `Tailwind`
-
-* 📚 **[MSc Resource](https://github.com/Jeet1466/MSc-Resource)** — Comprehensive academic portal providing study materials and resources for MSc IT students.
-  `Blade` `PHP` `HTML/CSS` `Web`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
