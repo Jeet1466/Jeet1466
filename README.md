@@ -16,14 +16,14 @@
 
 ## 💫 About Me
 
-<pre>
-<h3>- 🎓 <b>Education</b>     : Master of Science in Information Technology (MSc IT)
-- 🧠 <b>Focus Areas</b>   : AI Agents, Machine Learning, Cybersecurity & Full-Stack Development
-- ⚡ <b>Currently</b>     : Developing Next-Gen AI Workflows & Modern Web Platforms
-- 🎯 <b>Goals</b>         : Engineering secure, scalable, and intelligent software
-- 💬 <b>Ask Me About</b>  : Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel
-- 📬 <b>Availability</b>  : Open for exciting projects, research & tech collaborations!</h3>
-</pre>
+```yaml
+- 🎓 Education     : Master of Science in Information Technology (MSc IT)
+- 🧠 Focus Areas    : AI Agents, Machine Learning, Cybersecurity & Full-Stack Development
+- ⚡ Currently      : Developing Next-Gen AI Workflows & Modern Web Platforms
+- 🎯 Goals          : Engineering secure, scalable, and intelligent software
+- 💬 Ask Me About   : Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel
+- 📬 Availability   : Open for exciting projects, research & tech collaborations!
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
