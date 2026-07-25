@@ -10,35 +10,23 @@
     🚀 <b>Engineering intelligent AI agents, hardening digital security, and crafting next-gen web platforms.</b>
   </p>
 
-  <!-- Interactive Profile Badges & Live Metrics -->
-  <p align="center">
-    <a href="https://github.com/Jeet1466">
-      <img src="https://img.shields.io/github/followers/Jeet1466?logo=github&style=for-the-badge&color=00f2fe&labelColor=0d1117" alt="Followers" />
-    </a>
-    <a href="https://github.com/Jeet1466?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Jeet1466?logo=github&style=for-the-badge&color=4facfe&labelColor=0d1117" alt="Stars" />
-    </a>
-    <a href="https://github.com/Jeet1466?tab=repositories">
-      <img src="https://img.shields.io/github/repos/count/Jeet1466?logo=git&style=for-the-badge&color=00c6ff&labelColor=0d1117" alt="Repositories" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Jeet1466&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 💫 About Me
 
-| Perspective | Details |
-| :--- | :--- |
-| 🎓 **Academic Journey** | Pursuing **Master of Science in Information Technology (MSc IT)** |
-| 🤖 **AI & Intelligent Automation** | Building autonomous **AI Agents**, LLM workflows, and Machine Learning models |
-| 🛡️ **Cybersecurity Core** | Web Application Security, Penetration Testing & Ethical Hacking |
-| 💻 **Full-Stack Development** | Architecting responsive applications with **React**, **Next.js**, **Laravel**, and **Python** |
-| ⚡ **Current Focus** | Crafting scalable agentic workflows & modern enterprise web platforms |
-| 🎯 **Personal Mission** | Bridging artificial intelligence with security-first software design |
-| 📬 **Collaborations** | Open for open-source contributions, research, & software engineering roles! |
+* 🎓 **Education:** Master of Science in Information Technology (MSc IT)
+
+* 🧠 **Focus Areas:** AI Agents, Machine Learning, Cybersecurity & Full-Stack Web Development
+
+* ⚡ **Currently:** Developing Next-Gen AI Workflows & Modern Web Platforms
+
+* 🎯 **Goals:** Engineering secure, scalable, and intelligent software solutions
+
+* 💬 **Ask Me About:** Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel
+
+* 📬 **Availability:** Open for exciting projects, research & tech collaborations!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -84,11 +72,16 @@
 
 <br />
 
-| Project | Highlights & Tech Stack | Repository Link |
-| :--- | :--- | :---: |
-| 🤖 **AI AGENT** | Autonomous AI agent framework designed for complex workflow automation (`Python`, `LLMs`, `AI`) | [Explore Code ↗](https://github.com/Jeet1466/AI_AGENT) |
-| 🎪 **EventSetu** | Full-featured Event Management platform for organizing and attending events (`PHP`, `Laravel`, `MySQL`) | [Explore Code ↗](https://github.com/Jeet1466/EventSetu) |
-| 📚 **MSc Resource** | Comprehensive academic portal providing study materials and resources for MSc IT (`Blade`, `PHP`, `Web`) | [Explore Code ↗](https://github.com/Jeet1466/MSc-Resource) |
+### 🌟 Project Highlights & Tech Stacks
+
+* 🤖 **[AI AGENT](https://github.com/Jeet1466/AI_AGENT)** — Autonomous AI agent framework designed for complex task execution & workflow automation.
+  `Python` `LLMs` `AI` `Automation`
+
+* 🎪 **[EventSetu](https://github.com/Jeet1466/EventSetu)** — Full-featured Event Management & coordination platform for organizing and attending events.
+  `PHP` `Laravel` `MySQL` `Tailwind`
+
+* 📚 **[MSc Resource](https://github.com/Jeet1466/MSc-Resource)** — Comprehensive academic portal providing study materials and resources for MSc IT students.
+  `Blade` `PHP` `HTML/CSS` `Web`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
