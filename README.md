@@ -45,14 +45,14 @@
   ### 💻 Languages & Web Technologies
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,mysql,react,nextjs,nodejs,laravel,tailwind&perline=6&theme=dark" alt="Languages & Frameworks" />
-  </a>
+  </a>&nbsp;&nbsp;
 
   <br /><br />
 
   ### 🤖 AI, Security & Developer Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode,docker,postman&perline=7&theme=dark" alt="Tools & AI" />
-  </a>
+  </a>&nbsp;&nbsp;
 
 </div>
 
@@ -90,15 +90,15 @@
   <a href="https://github.com/Jeet1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jeet1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
- 
+ &nbsp;&nbsp;
   <a href="https://instagram.com/jeet__1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
   </a>
- 
+ &nbsp;&nbsp;
   <a href="mailto:j33t2006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
   </a>
