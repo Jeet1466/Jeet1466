@@ -16,15 +16,14 @@
 
 ## 💫 About Me
 
-| Area | Overview & Specialization |
+| | |
 | :--- | :--- |
-| 🎓 **Academic Journey** | Pursuing **Master of Science in Information Technology (MSc IT)** with a strong foundation in computer science principles, software architecture, and system security. |
-| 🤖 **AI & Intelligent Systems** | Architecting autonomous **AI Agents**, custom LLM workflows, prompt engineering pipelines, and Machine Learning models. |
-| 🛡️ **Cybersecurity Core** | Passionate about **Web Application Security**, Penetration Testing, Vulnerability Assessment, Ethical Hacking, and Secure Software Development. |
-| 💻 **Full-Stack Engineering** | Building scalable, high-performance web applications using **React**, **Next.js**, **TypeScript**, **PHP / Laravel**, and **Python**. |
-| ⚡ **Current Focus** | Developing next-generation agentic AI tools, event automation suites, and educational resource platforms. |
-| 🎯 **Mission & Vision** | Bridging cutting-edge Artificial Intelligence with robust, security-first software architecture to build impactful digital solutions. |
-| 📬 **Let's Connect** | Open for software engineering opportunities, AI research collaborations, open-source projects, and technical discussions! |
+| 🎓 **Education** | Master of Science in Information Technology (MSc IT) |
+| 🧠 **Focus Areas** | AI Agents, Machine Learning, Cybersecurity & Full-Stack Development |
+| ⚡ **Currently** | Developing Next-Gen AI Workflows & Modern Web Platforms |
+| 🎯 **Goals** | Engineering secure, scalable, and intelligent software |
+| 💬 **Ask Me About** | Python, JavaScript/TypeScript, React/Next.js, Ethical Hacking & PHP/Laravel |
+| 📬 **Availability** | Open for exciting projects, research & tech collaborations! |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
