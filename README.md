@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Header Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Jeet+Patel!;MSc+IT+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+ML+Developer+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB" alt="Typing Header" />
+  <!-- Dynamic Header Typing Effect (Runs Once on Page Load) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=70&repeat=false&lines=Hi+%F0%9F%90%8B%2C+I'm+Jeet+Patel!;MSc+IT+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+ML+Developer+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB" alt="Typing Header" />
 
   <p align="center">
     🚀 <b>Passionate about building intelligent AI agents, securing digital systems, and crafting modern web experiences.</b>
@@ -107,4 +107,6 @@
 <div align="center">
   <sub>✨ Designed with modern aesthetic standards for <b>Jeet Patel</b> ✨</sub>
 </div>
+
+
 
