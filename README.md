@@ -90,15 +90,15 @@
   <a href="https://github.com/Jeet1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/jeet1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+ 
   <a href="https://instagram.com/jeet__1466" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+ 
   <a href="mailto:j33t2006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
   </a>
