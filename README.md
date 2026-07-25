@@ -7,15 +7,15 @@
     🚀 <b>Passionate about building intelligent AI agents, securing digital systems, and crafting modern web experiences.</b>
   </p>
 
-  <!-- Interactive Badges -->
+  <!-- Interactive Profile Badges -->
   <p align="center">
     <a href="https://github.com/Jeet1466">
-      <img src="https://img.shields.io/github/followers/Jeet1466?logo=github&style=for-the-badge&color=00f2fe&labelColor=0d1117" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Jeet1466?logo=github&style=flat-square&color=00f2fe&labelColor=0d1117" alt="Followers" />
     </a>
     <a href="https://github.com/Jeet1466?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Jeet1466?logo=github&style=for-the-badge&color=4facfe&labelColor=0d1117" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Jeet1466?logo=github&style=flat-square&color=4facfe&labelColor=0d1117" alt="Stars" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=for-the-badge&logo=rocket&labelColor=0d1117" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=flat-square&logo=rocket&labelColor=0d1117" alt="Status" />
   </p>
 
 </div>
@@ -37,30 +37,21 @@
 
 ## 🛠️ Tech Stack & Toolkit
 
-### 💻 Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
 
-### 🚀 Web & Backend Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ### 💻 Languages & Web Technologies
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,mysql,react,nextjs,nodejs,laravel,tailwind&perline=6&theme=dark" alt="Languages & Frameworks" />
+  </a>
 
-### 🤖 AI, Security & Tools
-![AI Agents](https://img.shields.io/badge/AI_Agents-00F2FE?style=for-the-badge&logo=openai&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <br /><br />
+
+  ### 🤖 AI, Security & Developer Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode,docker,postman&perline=7&theme=dark" alt="Tools & AI" />
+  </a>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -94,16 +85,19 @@
 <div align="center">
 
   <a href="https://github.com/Jeet1466" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jeet1466" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/jeet__1466" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:j33t2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
   </a>
 
 </div>
@@ -114,5 +108,3 @@
   <sub>✨ Designed with modern aesthetic standards for <b>Jeet Patel</b> ✨</sub>
 </div>
 
-> Tech + Creativity = Magic ✨🚀
- 
