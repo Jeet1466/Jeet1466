@@ -50,7 +50,10 @@
 ## 📂 Featured Repositories
 
 <div align="center">
-
+  <a href="https://github.com/Jeet1466/SubSurf">
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=AI_AGENT&theme=cyan&hide_border=true" alt="AI Agent Repo Card" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Jeet1466/AI_AGENT">
     <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jeet1466&repo=AI_AGENT&theme=cyan&hide_border=true" alt="AI Agent Repo Card" />
   </a>
