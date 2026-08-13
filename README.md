@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Name Header (Typed Once on Page Load) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=000&color=00F2FE&center=true&vcenter=true&width=700&height=50&repeat=false&lines=Hi+%F0%9F%90%8B%2C+I'm+Jeet+Patel!" alt="Jeet Patel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=0&color=00F2FE&center=true&vcenter=true&multiline=true&width=700&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Jeet+Patel!" alt="Jeet Patel" />
 
   <!-- Dynamic Roles Subtitle (Continuous Loop) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vcenter=true&width=700&height=40&lines=MSc+IT+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+ML+Developer+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB" alt="Roles Typing SVG" />
